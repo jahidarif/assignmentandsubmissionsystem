@@ -1,0 +1,1229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\interfaces\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\enrollments\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\enrollments\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\interfaces\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\models\\pagedresult.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\models\\pagedresult.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\interfaces\\iclasscourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iclasscourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\interfaces\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\interfaces\\iclasssubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iclasssubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\interfaces\\iteacherassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iteacherassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\interfaces\\iteacherassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iteacherassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\interfaces\\iusermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iusermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\interfaces\\iclasscourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iclasscourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\interfaces\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\interfaces\\iclasssubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iclasssubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\interfaces\\iadminoverviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iadminoverviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\users\\dtos\\userlistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\users\\dtos\\userlistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\users\\dtos\\updateuserreques.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\users\\dtos\\updateuserreques.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\users\\validators\\updateuserrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\users\\validators\\updateuserrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\users\\usermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\users\\usermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\classcourses\\dtos\\classcoursedto..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\classcourses\\dtos\\classcoursedto..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\classcourses\\dtos\\createclasscourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\classcourses\\dtos\\createclasscourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\classcourses\\dtos\\updateclasscourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\classcourses\\dtos\\updateclasscourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\classcourses\\validators\\classcourserequestvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\classcourses\\validators\\classcourserequestvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\classcourses\\classcourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\classcourses\\classcourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\subjects\\dtos\\subjectdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\subjects\\dtos\\subjectdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\subjects\\validators\\subjectrequestvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\subjects\\validators\\subjectrequestvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\subjects\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\subjects\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\classsubjects\\dtos\\classsubjectdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\classsubjects\\dtos\\classsubjectdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\classsubjects\\classsubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\classsubjects\\classsubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\teacherassignments\\validators\\createteacherassignmentrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\teacherassignments\\validators\\createteacherassignmentrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\enrollments\\validators\\createenrollmentrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\enrollments\\validators\\createenrollmentrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\teacherassignments\\teacherassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\teacherassignments\\teacherassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\enrollments\\dtos\\enrollmentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\enrollments\\dtos\\enrollmentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\overview\\dtos\\adminassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\overview\\dtos\\adminassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\admin\\overview\\adminoverviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\admin\\overview\\adminoverviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\infrastructure\\persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\infrastructure\\persistence\\repositories\\classcourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\repositories\\classcourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\infrastructure\\persistence\\repositories\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\repositories\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\infrastructure\\persistence\\repositories\\classsubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\repositories\\classsubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\infrastructure\\persistence\\repositories\\teacherassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\repositories\\teacherassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\infrastructure\\persistence\\repositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\repositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\infrastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\api\\controllers\\admin\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\controllers\\admin\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\api\\controllers\\admin\\classcoursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\controllers\\admin\\classcoursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\api\\controllers\\admin\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\controllers\\admin\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\api\\controllers\\admin\\classsubjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\controllers\\admin\\classsubjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\api\\controllers\\admin\\teacherassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\controllers\\admin\\teacherassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\api\\controllers\\admin\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\controllers\\admin\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\api\\controllers\\admin\\adminoverviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\controllers\\admin\\adminoverviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\infrastructure\\security\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\security\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\auth\\dtos\\currentuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\auth\\dtos\\currentuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\infrastructure\\security\\bcryptpasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\security\\bcryptpasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\common\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\auth\\validators\\registerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\auth\\validators\\registerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\auth\\dtos\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\auth\\dtos\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\jahid\\documents\\assignmentandsubmissionsystem\\backend\\application\\features\\auth\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\features\\auth\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IEnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IEnrollmentRepository.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IEnrollmentRepository.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IEnrollmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:46:54.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PagedResult.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Models\\PagedResult.cs.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Models\\PagedResult.cs.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Models\\PagedResult.cs.cs",
+              "RelativeToolTip": "Application\\Common\\Models\\PagedResult.cs.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA/wAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:40:27.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Application\\Common\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:39:27.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClassCourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IClassCourseRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IClassCourseRepository.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IClassCourseRepository.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IClassCourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:37:13.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEnrollmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IEnrollmentService.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IEnrollmentService.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IEnrollmentService.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IEnrollmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:29:23.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Enrollments\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\Enrollments\\EnrollmentService.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Enrollments\\EnrollmentService.cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\Enrollments\\EnrollmentService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:15:38.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:20:44.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IClassSubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IClassSubjectRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IClassSubjectRepository.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IClassSubjectRepository.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IClassSubjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T05:21:05.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITeacherAssignmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\ITeacherAssignmentRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\ITeacherAssignmentRepository.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\ITeacherAssignmentRepository.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\ITeacherAssignmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:35:32.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITeacherAssignmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\ITeacherAssignmentService.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\ITeacherAssignmentService.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\ITeacherAssignmentService.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\ITeacherAssignmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:30:27.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:20:02.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:19:11.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IUserManagementService.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IUserManagementService.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IUserManagementService.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IUserManagementService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T03:27:24.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\ISubjectRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\ISubjectRepository.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\ISubjectRepository.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\ISubjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T23:36:29.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IClassCourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IClassCourseService.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IClassCourseService.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IClassCourseService.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IClassCourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:33:04.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IClassSubjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IClassSubjectService.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IClassSubjectService.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IClassSubjectService.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IClassSubjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:30:54.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAdminOverviewService.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IAdminOverviewService.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IAdminOverviewService.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IAdminOverviewService.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IAdminOverviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:28:53.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserListItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Users\\Dtos\\UserListItemDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\Users\\Dtos\\UserListItemDto.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Users\\Dtos\\UserListItemDto.cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\Users\\Dtos\\UserListItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:28:19.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISubjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\ISubjectService.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\ISubjectService.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\ISubjectService.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\ISubjectService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T23:31:17.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateUserReques.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Users\\Dtos\\UpdateUserReques.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\Users\\Dtos\\UpdateUserReques.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Users\\Dtos\\UpdateUserReques.cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\Users\\Dtos\\UpdateUserReques.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:28:01.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateUserRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Users\\Validators\\UpdateUserRequestValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\Users\\Validators\\UpdateUserRequestValidator.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Users\\Validators\\UpdateUserRequestValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\Users\\Validators\\UpdateUserRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:27:42.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClassCourseDto..cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\ClassCourses\\Dtos\\ClassCourseDto..cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\ClassCourses\\Dtos\\ClassCourseDto..cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\ClassCourses\\Dtos\\ClassCourseDto..cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\ClassCourses\\Dtos\\ClassCourseDto..cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:27:02.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateClassCourseRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\ClassCourses\\Dtos\\CreateClassCourseRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\ClassCourses\\Dtos\\CreateClassCourseRequest.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\ClassCourses\\Dtos\\CreateClassCourseRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\ClassCourses\\Dtos\\CreateClassCourseRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:26:44.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateClassCourseRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\ClassCourses\\Dtos\\UpdateClassCourseRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\ClassCourses\\Dtos\\UpdateClassCourseRequest.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\ClassCourses\\Dtos\\UpdateClassCourseRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\ClassCourses\\Dtos\\UpdateClassCourseRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:26:22.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClassCourseRequestValidators.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\ClassCourses\\Validators\\ClassCourseRequestValidators.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\ClassCourses\\Validators\\ClassCourseRequestValidators.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\ClassCourses\\Validators\\ClassCourseRequestValidators.cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\ClassCourses\\Validators\\ClassCourseRequestValidators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:24:37.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Users\\UserManagementService.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\Users\\UserManagementService.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Users\\UserManagementService.cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\Users\\UserManagementService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAwGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T02:32:08.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClassCourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\ClassCourses\\ClassCourseService.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\ClassCourses\\ClassCourseService.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\ClassCourses\\ClassCourseService.cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\ClassCourses\\ClassCourseService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:24:15.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClassSubjectDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\ClassSubjects\\Dtos\\ClassSubjectDtos.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\ClassSubjects\\Dtos\\ClassSubjectDtos.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\ClassSubjects\\Dtos\\ClassSubjectDtos.cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\ClassSubjects\\Dtos\\ClassSubjectDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:20:29.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ClassSubjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\ClassSubjects\\ClassSubjectService.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\ClassSubjects\\ClassSubjectService.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\ClassSubjects\\ClassSubjectService.cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\ClassSubjects\\ClassSubjectService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:20:05.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateTeacherAssignmentRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\TeacherAssignments\\Validators\\CreateTeacherAssignmentRequestValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\TeacherAssignments\\Validators\\CreateTeacherAssignmentRequestValidator.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\TeacherAssignments\\Validators\\CreateTeacherAssignmentRequestValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\TeacherAssignments\\Validators\\CreateTeacherAssignmentRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:19:35.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SubjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Subjects\\SubjectService.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\Subjects\\SubjectService.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Subjects\\SubjectService.cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\Subjects\\SubjectService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwFcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T23:32:37.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SubjectRequestValidators.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Subjects\\Validators\\SubjectRequestValidators.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\Subjects\\Validators\\SubjectRequestValidators.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Subjects\\Validators\\SubjectRequestValidators.cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\Subjects\\Validators\\SubjectRequestValidators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T23:33:58.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SubjectDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Subjects\\Dtos\\SubjectDtos.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\Subjects\\Dtos\\SubjectDtos.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Subjects\\Dtos\\SubjectDtos.cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\Subjects\\Dtos\\SubjectDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T23:35:29.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateEnrollmentRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Enrollments\\Validators\\CreateEnrollmentRequestValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\Enrollments\\Validators\\CreateEnrollmentRequestValidator.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Enrollments\\Validators\\CreateEnrollmentRequestValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\Enrollments\\Validators\\CreateEnrollmentRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:17:09.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TeacherAssignmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\TeacherAssignments\\TeacherAssignmentService.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\TeacherAssignments\\TeacherAssignmentService.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\TeacherAssignments\\TeacherAssignmentService.cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\TeacherAssignments\\TeacherAssignmentService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:19:02.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EnrollmentDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Enrollments\\Dtos\\EnrollmentDtos.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\Enrollments\\Dtos\\EnrollmentDtos.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Enrollments\\Dtos\\EnrollmentDtos.cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\Enrollments\\Dtos\\EnrollmentDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:17:55.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminAssignmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Overview\\Dtos\\AdminAssignmentDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\Overview\\Dtos\\AdminAssignmentDto.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Overview\\Dtos\\AdminAssignmentDto.cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\Overview\\Dtos\\AdminAssignmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:05:59.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AdminOverviewService.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Overview\\AdminOverviewService.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Admin\\Overview\\AdminOverviewService.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Admin\\Overview\\AdminOverviewService.cs",
+              "RelativeToolTip": "Application\\Features\\Admin\\Overview\\AdminOverviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:04:58.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ClassCourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Persistence\\Repositories\\ClassCourseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\ClassCourseRepository.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Persistence\\Repositories\\ClassCourseRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\ClassCourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T05:38:05.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ClassSubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Persistence\\Repositories\\ClassSubjectRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\ClassSubjectRepository.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Persistence\\Repositories\\ClassSubjectRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\ClassSubjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T05:37:12.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Persistence\\Repositories\\SubjectRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\SubjectRepository.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Persistence\\Repositories\\SubjectRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\SubjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T23:37:16.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:23:49.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Persistence\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Persistence\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:23:13.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:15:57.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TeacherAssignmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Persistence\\Repositories\\TeacherAssignmentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\TeacherAssignmentRepository.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Persistence\\Repositories\\TeacherAssignmentRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\TeacherAssignmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T05:36:42.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Persistence\\Repositories\\EnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\EnrollmentRepository.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Persistence\\Repositories\\EnrollmentRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\EnrollmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T05:35:43.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ClassCoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Controllers\\Admin\\ClassCoursesController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\Admin\\ClassCoursesController.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Controllers\\Admin\\ClassCoursesController.cs",
+              "RelativeToolTip": "Api\\Controllers\\Admin\\ClassCoursesController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA5wCwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T05:31:48.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TeacherAssignmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Controllers\\Admin\\TeacherAssignmentsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\Admin\\TeacherAssignmentsController.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Controllers\\Admin\\TeacherAssignmentsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\Admin\\TeacherAssignmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T05:30:34.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ClassSubjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Controllers\\Admin\\ClassSubjectsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\Admin\\ClassSubjectsController.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Controllers\\Admin\\ClassSubjectsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\Admin\\ClassSubjectsController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T04:43:23.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SubjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Controllers\\Admin\\SubjectsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\Admin\\SubjectsController.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Controllers\\Admin\\SubjectsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\Admin\\SubjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T23:30:21.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Controllers\\Admin\\UsersController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\Admin\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Controllers\\Admin\\UsersController.cs",
+              "RelativeToolTip": "Api\\Controllers\\Admin\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T02:33:48.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Persistence\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Persistence\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:24:31.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Controllers\\Admin\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\Admin\\EnrollmentsController.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Controllers\\Admin\\EnrollmentsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\Admin\\EnrollmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T05:29:46.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AdminOverviewController.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Controllers\\Admin\\AdminOverviewController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\Admin\\AdminOverviewController.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Controllers\\Admin\\AdminOverviewController.cs",
+              "RelativeToolTip": "Api\\Controllers\\Admin\\AdminOverviewController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T05:28:46.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:30:06.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:09:32.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Auth\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Auth\\AuthService.cs",
+              "RelativeToolTip": "Application\\Features\\Auth\\AuthService.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAmwNMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:14:43.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:27:49.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-05T10:10:34.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CurrentUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Auth\\Dtos\\CurrentUserDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Auth\\Dtos\\CurrentUserDto.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Auth\\Dtos\\CurrentUserDto.cs",
+              "RelativeToolTip": "Application\\Features\\Auth\\Dtos\\CurrentUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T01:03:08.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Security\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Security\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Security\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "Infrastructure\\Security\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T03:31:03.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAiwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:29:34.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-05T10:27:10.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:25:05.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Domain\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Domain\\Enums\\UserRole.cs",
+              "RelativeToolTip": "Domain\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:32:43.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "BCryptPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Security\\BCryptPasswordHasher.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Security\\BCryptPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Infrastructure\\Security\\BCryptPasswordHasher.cs",
+              "RelativeToolTip": "Infrastructure\\Security\\BCryptPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:22:17.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:21:46.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Interfaces\\IPasswordHasher.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:18:25.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "Application\\Common\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:17:47.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ConflictException.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Exceptions\\ConflictException.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Exceptions\\ConflictException.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Common\\Exceptions\\ConflictException.cs",
+              "RelativeToolTip": "Application\\Common\\Exceptions\\ConflictException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:17:02.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "RegisterRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Auth\\Validators\\RegisterRequestValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Auth\\Validators\\RegisterRequestValidator.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Auth\\Validators\\RegisterRequestValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Auth\\Validators\\RegisterRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:13:28.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "RegisterResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Auth\\Dtos\\RegisterResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Auth\\Dtos\\RegisterResponse.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Auth\\Dtos\\RegisterResponse.cs",
+              "RelativeToolTip": "Application\\Features\\Auth\\Dtos\\RegisterResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:12:21.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Auth\\Dtos\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Auth\\Dtos\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Jahid\\Documents\\AssignmentandSubmissionSystem\\backend\\Application\\Features\\Auth\\Dtos\\RegisterRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Auth\\Dtos\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T10:11:33.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
