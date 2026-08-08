@@ -9,8 +9,18 @@ export const apiClient = axios.create({
 let isRefreshing = false
 let pendingQueue: Array<() => void> = []
 
+function isOnPublicAuthPage() {
+  if (typeof window === "undefined") return false
+  return (
+    window.location.pathname.startsWith("/auth/sign-in") ||
+    window.location.pathname.startsWith("/auth/sign-up")
+  )
+}
+
 function redirectToSignIn(message?: string) {
   if (typeof window === "undefined") return
+  if (isOnPublicAuthPage()) return
+
   const url = message
     ? `/auth/sign-in?authError=${encodeURIComponent(message)}`
     : "/auth/sign-in"
@@ -22,6 +32,10 @@ apiClient.interceptors.response.use(
   async (error) => {
     const originalRequest = error.config
     const serverMessage: string | undefined = error.response?.data?.message
+
+    if (error.response?.status === 401 && isOnPublicAuthPage()) {
+      return Promise.reject(error)
+    }
 
     if (serverMessage?.toLowerCase().includes("deactivated")) {
       redirectToSignIn(serverMessage)
