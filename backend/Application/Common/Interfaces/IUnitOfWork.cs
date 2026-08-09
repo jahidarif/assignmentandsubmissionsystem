@@ -9,6 +9,8 @@ public interface IUnitOfWork
     IClassSubjectRepository ClassSubjects { get; }
     ITeacherAssignmentRepository TeacherAssignments { get; }
     IEnrollmentRepository Enrollments { get; }
+    IAssignmentRepository Assignments { get; }
+    ISubmissionRepository Submissions { get; }
 
     Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
 }

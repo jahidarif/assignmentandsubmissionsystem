@@ -34,4 +34,12 @@ public class TeacherAssignmentRepository : Repository<TeacherAssignment>, ITeach
 
     public async Task<bool> ExistsAsync(Guid teacherId, Guid classSubjectId, CancellationToken cancellationToken = default)
         => await DbSet.AnyAsync(ta => ta.TeacherId == teacherId && ta.ClassSubjectId == classSubjectId, cancellationToken);
+
+    public async Task<List<TeacherAssignment>> GetByTeacherIdAsync(Guid teacherId, CancellationToken cancellationToken = default)
+        => await DbSet
+            .Include(ta => ta.ClassSubject).ThenInclude(cs => cs.ClassCourse)
+            .Include(ta => ta.ClassSubject).ThenInclude(cs => cs.Subject)
+            .Where(ta => ta.TeacherId == teacherId)
+            .OrderBy(ta => ta.ClassSubject.ClassCourse.Name)
+            .ToListAsync(cancellationToken);
 }

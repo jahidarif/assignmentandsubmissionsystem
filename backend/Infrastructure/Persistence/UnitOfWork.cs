@@ -13,6 +13,8 @@ public class UnitOfWork : IUnitOfWork
     public IClassSubjectRepository ClassSubjects { get; }
     public ITeacherAssignmentRepository TeacherAssignments { get; }
     public IEnrollmentRepository Enrollments { get; }
+    public IAssignmentRepository Assignments { get; }
+    public ISubmissionRepository Submissions { get; }
 
     public UnitOfWork(
         ApplicationDbContext context,
@@ -22,7 +24,9 @@ public class UnitOfWork : IUnitOfWork
         ISubjectRepository subjectRepository,
         IClassSubjectRepository classSubjectRepository,
         ITeacherAssignmentRepository teacherAssignmentRepository,
-        IEnrollmentRepository enrollmentRepository)
+        IEnrollmentRepository enrollmentRepository,
+        IAssignmentRepository assignmentRepository,
+        ISubmissionRepository submissionRepository)
     {
         _context = context;
         Users = userRepository;
@@ -32,6 +36,8 @@ public class UnitOfWork : IUnitOfWork
         ClassSubjects = classSubjectRepository;
         TeacherAssignments = teacherAssignmentRepository;
         Enrollments = enrollmentRepository;
+        Assignments = assignmentRepository;
+        Submissions = submissionRepository;
     }
 
     public Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)

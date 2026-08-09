@@ -28,8 +28,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-builder.Services.AddScoped<IApplicationDbContext>(provider =>
-    provider.GetRequiredService<ApplicationDbContext>());
+builder.Services.AddScoped<IApplicationDbContext>(provider => provider.GetRequiredService<ApplicationDbContext>());
 
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IRefreshTokenRepository, RefreshTokenRepository>();
@@ -38,6 +37,8 @@ builder.Services.AddScoped<ISubjectRepository, SubjectRepository>();
 builder.Services.AddScoped<IClassSubjectRepository, ClassSubjectRepository>();
 builder.Services.AddScoped<ITeacherAssignmentRepository, TeacherAssignmentRepository>();
 builder.Services.AddScoped<IEnrollmentRepository, EnrollmentRepository>();
+builder.Services.AddScoped<IAssignmentRepository, AssignmentRepository>();
+builder.Services.AddScoped<ISubmissionRepository, SubmissionRepository>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<IPasswordHasher, BCryptPasswordHasher>();
 builder.Services.AddScoped<IJwtTokenGenerator, JwtTokenGenerator>();
@@ -107,12 +108,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                         ? "This account has been deactivated. Please contact an administrator."
                         : "Authentication required or token is invalid/expired.";
 
-                    await context.Response.WriteAsync(JsonSerializer.Serialize(new
-                    {
-                        title = "Unauthorized",
-                        status = 401,
-                        message
-                    }));
+                    await context.Response.WriteAsync(JsonSerializer.Serialize(new { title = "Unauthorized", status = 401, message }));
                 }
             }
         };
@@ -125,9 +121,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy(FrontendCorsPolicy, policy =>
     {
-        policy.WithOrigins("http://localhost:3000")
-              .AllowAnyHeader()
-              .AllowAnyMethod();
+        policy.WithOrigins("http://localhost:3000").AllowAnyHeader().AllowAnyMethod();
     });
 });
 
