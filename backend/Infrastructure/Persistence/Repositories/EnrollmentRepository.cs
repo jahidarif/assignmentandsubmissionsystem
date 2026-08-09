@@ -30,4 +30,10 @@ public class EnrollmentRepository : Repository<Enrollment>, IEnrollmentRepositor
 
     public async Task<bool> ExistsAsync(Guid studentId, Guid classCourseId, CancellationToken cancellationToken = default)
         => await DbSet.AnyAsync(e => e.StudentId == studentId && e.ClassCourseId == classCourseId, cancellationToken);
+
+    public async Task<bool> IsStudentEnrolledInAssignmentClassAsync(Guid studentId, Guid assignmentId, CancellationToken cancellationToken = default)
+        => await DbSet.AnyAsync(e =>
+            e.StudentId == studentId &&
+            Context.Set<Assignment>().Any(a => a.Id == assignmentId && a.ClassSubject.ClassCourseId == e.ClassCourseId),
+            cancellationToken);
 }

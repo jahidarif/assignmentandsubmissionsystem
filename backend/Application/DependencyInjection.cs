@@ -8,6 +8,7 @@ using AssignmentSubmissionSystem.Application.Features.Admin.Subjects;
 using AssignmentSubmissionSystem.Application.Features.Admin.TeacherAssignments;
 using AssignmentSubmissionSystem.Application.Features.Admin.Users;
 using AssignmentSubmissionSystem.Application.Features.Auth;
+using AssignmentSubmissionSystem.Application.Features.Student;
 using AssignmentSubmissionSystem.Application.Features.Teacher.Assignments;
 using AssignmentSubmissionSystem.Application.Features.Teacher.Submissions;
 using FluentValidation;
@@ -31,6 +32,8 @@ public static class DependencyInjection
         services.AddScoped<IAdminOverviewService, AdminOverviewService>();
         services.AddScoped<IAssignmentManagementService, AssignmentManagementService>();
         services.AddScoped<ISubmissionGradingService, SubmissionGradingService>();
+        services.AddScoped<IStudentAssignmentService, StudentAssignmentService>();
+        services.AddScoped<IStudentSubmissionService, StudentSubmissionService>();
 
         return services;
     }
